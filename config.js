@@ -1,5 +1,5 @@
 const config = {
-    environment: "production"
+    environment: "development"
 };
 
 module.exports = config;
